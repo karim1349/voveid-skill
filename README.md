@@ -17,7 +17,7 @@ This skill includes documentation for:
 
 You can install this skill directly by passing the URL to the `.skill` file. 
 
-If this repository is public, anyone can install the skill using:
+Anyone can install the skill using:
 
 ```bash
 claude skill install https://raw.githubusercontent.com/karim1349/voveid-skill/main/voveid.skill
