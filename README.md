@@ -20,10 +20,8 @@ You can install this skill directly by passing the URL to the `.skill` file.
 If this repository is public, anyone can install the skill using:
 
 ```bash
-claude skill install https://raw.githubusercontent.com/<YOUR-USERNAME>/voveid-skill/main/voveid.skill
+claude skill install https://raw.githubusercontent.com/karim1349/voveid-skill/main/voveid.skill
 ```
-
-*(Replace `<YOUR-USERNAME>` with your actual GitHub username once published!)*
 
 Alternatively, you can install it locally if you have the file:
 ```bash
